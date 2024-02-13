@@ -1,4 +1,4 @@
-# 📊 Data Analysis - Description:
+# 📊 Thesis Data Analysis - Description:
 <p align="justify">
   This repository contains the statistical analysis of the data collected during my research for my bachelor's thesis entitled "<b>Gendered UI/UX: A Comparative Study
   of Gender-Specific and Gender-Neutral Web Design</b>”. My thesis is a research project that explores the impact of gender on users UI/UX design preferences. 
@@ -11,9 +11,9 @@
   of various design aspects (using a five-point Likert scale) and participants’ design preferences among the versions. Therefore, this notebook presents 
   the analysis of all the answers collected and contains:
   <ul>
-    <li>An inspection of participants’ demographic characteristics.</li>
-    <li>A visualization of participants’ preferences among various design aspects per version.</li>
-    <li>A visualization of participants’ ratings per version and its corresponding design aspects.</li>
+    <li>An inspection of participants demographic characteristics.</li>
+    <li>A visualization of participants preferences among various design aspects per version.</li>
+    <li>A visualization of participants ratings per version and its corresponding design aspects.</li>
     <li>A statistical significance testing of numeric data (by conducting Welch’s t-test).</li>
     <li>A statistical hypothesis testing for independence between categorical variables (by conducting Pearson’s chi square test).</li>
   </ul>
